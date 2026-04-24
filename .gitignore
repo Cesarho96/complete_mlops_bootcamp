@@ -1,0 +1,13 @@
+.mlops/
+*.csv
+*.xlsx
+*.pdf
+.github/
+*.png
+*.jpg
+*.ipynb_checkpoints/
+*.log
+*.zip
+*.html
+*.txt
+!requirements.txt
