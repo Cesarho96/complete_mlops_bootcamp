@@ -11,3 +11,6 @@
 *.html
 *.txt
 !requirements.txt
+*mlartifacts/
+*mlruns/
+*mlflow.db
